@@ -1,2 +1,2 @@
 # hello-world
-Have a try!
+Try again!
